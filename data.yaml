@@ -1,0 +1,7 @@
+names:
+  0: germinadas
+  1: mortas
+  2: fracas
+path: .
+train: train.txt
+val: train.txt

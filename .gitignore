@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Dataset and annotations
+data/images/
+data/labels/
+data/*.cache
+*.cache
+
+# Training outputs
+runs/
+resultado_overlay/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# System files
+.DS_Store
+Thumbs.db
